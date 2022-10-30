@@ -1,0 +1,125 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    color: darkcyan;
+}
+
+h2 {
+    text-transform: uppercase;
+    color: teal;
+}
+
+.colors {
+    border: 1px solid maroon;
+    margin: 60px;
+    margin-left: 15%;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    width: 70%;
+}
+
+.fonts {
+    border: 1px solid maroon;
+    margin: 60px;
+    margin-left: 15%;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    width: 70%;
+    background-color: lightblue;
+}
+
+.times {
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 5px;
+}
+
+.helvetica {
+    font-family: helvetica;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+.roboto {
+    font-family: system-ui;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+.blue {
+    display: inline-block;
+    width: 300px;
+    height: 125px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.teal {
+    display: inline-block;
+    width: 300px;
+    height: 125px;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    margin-left: 60px;
+}
+
+.darkcyan {
+    display: inline-block;
+    width: 300px;
+    height: 125px;
+    background-color: darkcyan;
+    color: white;
+    text-align: center;
+    margin-left: 60px;
+}
+
+.red {
+    display: inline-block;
+    width: 300px;
+    height: 125px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.purple {
+    display: inline-block;
+    width: 300px;
+    height: 125px;
+    background-color: purple;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.maroon {
+    display: inline-block;
+    width: 300px;
+    height: 125px;
+    background-color: maroon;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.styles {
+    border: 1px solid maroon;
+    padding-left: 20px;
+    margin: 60px;
+    margin-left: 15%;
+    width: 70%;
+    background-color: lightblue;
+}
+
+#H1 {
+    display: flex;
+    justify-content: left;
+    color: darkcyan;
+}
